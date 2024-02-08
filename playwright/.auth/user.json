@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "NEXT_LOCALE",
+      "value": "en",
+      "domain": "mgmt.qa-syd-2.netlinkz.dev",
+      "path": "/",
+      "expires": 1738812181.094676,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI3NzBmNzJhZS03MzkzLTRhZDMtOTM3Yi1jZTJkNmYwZjhkOGUiLCJyb2xlSWQiOiI2NzNjMDM4NS1kOGQzLTRmNmYtOGM0Mi1mNTNmNWExNmMyMzQiLCJpYXQiOjE3MDcyNzYxODEsImV4cCI6MTcwNzM2MjU4MX0.aXdsZ6MPvQ6KspAmqo_YlySHtRVECm0JYxYyJ3PgNDo",
+      "domain": "mgmt.qa-syd-2.netlinkz.dev",
+      "path": "/",
+      "expires": 1707362581.648491,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mgmt.qa-syd-2.netlinkz.dev",
+      "localStorage": [
+        {
+          "name": "persist:root",
+          "value": "{\"authReducer\":\"{\\\"userId\\\":\\\"770f72ae-7393-4ad3-937b-ce2d6f0f8d8e\\\",\\\"roleId\\\":\\\"673c0385-d8d3-4f6f-8c42-f53f5a16c234\\\",\\\"accessToken\\\":\\\"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI3NzBmNzJhZS03MzkzLTRhZDMtOTM3Yi1jZTJkNmYwZjhkOGUiLCJyb2xlSWQiOiI2NzNjMDM4NS1kOGQzLTRmNmYtOGM0Mi1mNTNmNWExNmMyMzQiLCJpYXQiOjE3MDcyNzYxODEsImV4cCI6MTcwNzM2MjU4MX0.aXdsZ6MPvQ6KspAmqo_YlySHtRVECm0JYxYyJ3PgNDo\\\",\\\"tokenType\\\":\\\"Bearer\\\",\\\"expiresAt\\\":\\\"2024-02-07T03:53:01.650Z\\\",\\\"userName\\\":\\\"Playwright\\\"}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}

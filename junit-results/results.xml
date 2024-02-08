@@ -1,0 +1,21 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="2" errors="0" time="57.240891000000005">
+<testsuite name="auth.setup.ts" timestamp="2024-02-07T03:22:58.070Z" hostname="setup" tests="1" failures="0" skipped="0" time="3.992" errors="0">
+<testcase name="authenticate" classname="auth.setup.ts" time="3.992">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/auth.setup.ts-authenticate-setup/test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="ui.usermanag.test.spec.ts" timestamp="2024-02-07T03:22:58.070Z" hostname="chromium" tests="2" failures="0" skipped="2" time="51.866" errors="0">
+<testcase name="create a customer admin user successfully" classname="ui.usermanag.test.spec.ts" time="51.866">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="create a partner admin user successfully" classname="ui.usermanag.test.spec.ts" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>
