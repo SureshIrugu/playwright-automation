@@ -1,31 +1,14 @@
 	{
-		"FIRSTNAME": "Automation",
-		"LASTNAME": "Playwright",
-		"EMAIL": "automation@netlinkz.com",
-		"ACCOUNTUSERNAME": "Automation",
-		"ACCOUNTPASSWORD": "Playwright@123",
-		"ROLE": "Super Admin",
-		"INSTANCENAME": "qa-instance",
-		"DESCRIPTION": "Instance",
-		"BASEURL": "https://vsm.qa-syd-2.netlinkz.dev/vsm",
-		"ORCHUSERNAME": "playwright",
-		"ORCHPASSWORD": "Playwright110",
-		"EDITFIRSTNAME": "Typescript",
-		"EDITLASTNAME": "Automation",
-		"EDITEMAIL": "sample@netlinkz.com",
-		"COMPANY": "E-Toll",
-		"CUSTOMER": "EtollCustomer",
-		"EDGENAME": "EtollCustomer-Edge-1",
-		"CUSTOMERFIRSTNAME": "Direct",
-		"CUSTOMERLASTNAME": "customer",
-		"CUSTOMEREMAIL": "customer@netlinkz.dev",
-		"CUSTOMERUSERNMAE": "customerA",
-		"CUSTOMERPASSWORD": "customerA@123",
-		"CUSTOMERROLE": "customer Admin",
-		"PARTNERFIRSTNAME": "Partner",
-		"PARTNERLASTNAME": "X",
-		"PARTNEREMAIL": "partnerx@netlinkz.dev",
-		"PARTNERUSERNMAE": "PartnerX",
-		"PARTNERPASSWORD": "PartnerX@123",
-		"PARTNERROLE": "Partner Admin"
+		"TITLE":"Otivo. Be better off.",
+		"AGE":"35",
+		"SALARY":"100000",
+		"SUPER":"11000",
+		"CHARTLAUNCH":"IncomeAssetsCreated with Highcharts",
+		"NEWAGE":"45",
+		"PARTNERAGE":"40",
+		"PARTNERSALARY":"90000",
+		"PARTNERBALANCE":"12000"
+
+
+		
 	}

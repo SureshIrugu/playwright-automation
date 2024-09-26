@@ -1,21 +1,44 @@
-<testsuites id="" name="" tests="3" failures="0" skipped="2" errors="0" time="57.240891000000005">
-<testsuite name="auth.setup.ts" timestamp="2024-02-07T03:22:58.070Z" hostname="setup" tests="1" failures="0" skipped="0" time="3.992" errors="0">
-<testcase name="authenticate" classname="auth.setup.ts" time="3.992">
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="25.855521">
+<testsuite name="ui.superdetails.test.spec.ts" timestamp="2024-09-26T11:20:23.380Z" hostname="chromium" tests="5" failures="0" skipped="0" time="25.044" errors="0">
+<testcase name="Test 1: Launching otivo retirement calculator successfully" classname="ui.superdetails.test.spec.ts" time="2.803">
 <system-out>
 <![CDATA[
-[[ATTACHMENT|../test-results/auth.setup.ts-authenticate-setup/test-finished-1.png]]
+[[ATTACHMENT|../test-results/ui.superdetails.test-Test--fca41-ent-calculator-successfully-chromium/test-finished-1.png]]
+]]>
+</system-out>
+<system-err>
+<![CDATA[(node:7591) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+]]>
+</system-err>
+</testcase>
+<testcase name="Test 2: Super details filled and submitted successfully" classname="ui.superdetails.test.spec.ts" time="4.705">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/ui.superdetails.test-Test--809d4--and-submitted-successfully-chromium/test-finished-1.png]]
 ]]>
 </system-out>
 </testcase>
-</testsuite>
-<testsuite name="ui.usermanag.test.spec.ts" timestamp="2024-02-07T03:22:58.070Z" hostname="chromium" tests="2" failures="0" skipped="2" time="51.866" errors="0">
-<testcase name="create a customer admin user successfully" classname="ui.usermanag.test.spec.ts" time="51.866">
-<skipped>
-</skipped>
+<testcase name="Test 3:update age successfully" classname="ui.superdetails.test.spec.ts" time="5.551">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/ui.superdetails.test-Test-3-update-age-successfully-chromium/test-finished-1.png]]
+]]>
+</system-out>
 </testcase>
-<testcase name="create a partner admin user successfully" classname="ui.usermanag.test.spec.ts" time="0">
-<skipped>
-</skipped>
+<testcase name="Test 4:validate income and assert graphs " classname="ui.superdetails.test.spec.ts" time="5.048">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/ui.superdetails.test-Test--b3e80-e-income-and-assert-graphs--chromium/test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Test 5: Validate and display partner income and assert in dashboard " classname="ui.superdetails.test.spec.ts" time="6.937">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|../test-results/ui.superdetails.test-Test--91036-me-and-assert-in-dashboard--chromium/test-finished-1.png]]
+]]>
+</system-out>
 </testcase>
 </testsuite>
 </testsuites>
