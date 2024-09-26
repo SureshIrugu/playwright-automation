@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 26 21:34:09 AEST 2024","Thu Sep 26 21:34:13 AEST 2024","3523","chromium","ui.superdetails.test.spec.ts","","","","Test 1: Launching otivo retirement calculator successfully",""
+"passed","Thu Sep 26 21:34:23 AEST 2024","Thu Sep 26 21:34:28 AEST 2024","5053","chromium","ui.superdetails.test.spec.ts","","","","Test 4:validate income and assert graphs",""
+"passed","Thu Sep 26 21:34:17 AEST 2024","Thu Sep 26 21:34:23 AEST 2024","5583","chromium","ui.superdetails.test.spec.ts","","","","Test 3:update age successfully",""
+"passed","Thu Sep 26 21:34:28 AEST 2024","Thu Sep 26 21:34:34 AEST 2024","6334","chromium","ui.superdetails.test.spec.ts","","","","Test 5: Validate and display partner income and assert in dashboard",""
+"passed","Thu Sep 26 21:34:13 AEST 2024","Thu Sep 26 21:34:17 AEST 2024","4645","chromium","ui.superdetails.test.spec.ts","","","","Test 2: Super details filled and submitted successfully",""
