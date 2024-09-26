@@ -11,6 +11,8 @@ Download and install
 #### **Install dependencies.**
 
     npm install
+#### ***Install Playwright .**
+ npm init playwright@latest
 
 #### **To run the tests go to the root of the project and run (headless mode)**
 

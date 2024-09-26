@@ -18,7 +18,5 @@ function getEnv(key: string, fallback?: any): any {
 }
 
 export const env = {
-  BASE_URL: getEnv("BASE_URL", "https://mgmt.qa-syd-5.netlinkz.dev/"),
-  USER_NAME: getEnv("USER_NAME"),
-  PASSWORD: getEnv("PASSWORD"),
+  BASE_URL: getEnv("BASE_URL", "https://www.otivo.com/cfs/retirementCalculato"),
 };
