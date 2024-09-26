@@ -24,16 +24,7 @@ test("Test 2: Super details filled and submitted successfully", async ({
   await dashboard.validateCalculatorChart();
 });
 
-test("Test 3:update age successfully", async ({ page }) => {
-  const cal = new CAL(page);
-  const dashboard = new Dashboard(page);
-  await cal.goto();
-  await cal.enterSuperDetails();
-  //update dashboard age to view in retirement calculator dasboard.
-  await cal.updateAge();
-});
-
-test("Test 4:validate income and assert graphs ", async ({ page }) => {
+test("Test 3:validate income and assert graphs ", async ({ page }) => {
   const cal = new CAL(page);
   const dashboard = new Dashboard(page);
   await cal.goto();
@@ -43,7 +34,7 @@ test("Test 4:validate income and assert graphs ", async ({ page }) => {
   await dashboard.assertGraphValidate();
 });
 
-test("Test 5: Validate and display partner income and assert in dashboard ", async ({
+test("Test 4: Validate and display partner income and assert in dashboard ", async ({
   page,
 }) => {
   const cal = new CAL(page);
@@ -52,4 +43,13 @@ test("Test 5: Validate and display partner income and assert in dashboard ", asy
   await cal.enterPartnerDetails();
   //validate after submit partner details to view charts in dashboard chart.
   await dashboard.incomeGraphValidate();
+});
+
+test("Test 5:update age successfully", async ({ page }) => {
+  const cal = new CAL(page);
+  const dashboard = new Dashboard(page);
+  await cal.goto();
+  await cal.enterSuperDetails();
+  //update dashboard age to view in retirement calculator dasboard.
+  await cal.updateAge();
 });
