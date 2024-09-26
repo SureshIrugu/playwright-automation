@@ -1,39 +1,39 @@
-<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="24.597305">
-<testsuite name="ui.superdetails.test.spec.ts" timestamp="2024-09-26T13:31:53.007Z" hostname="chromium" tests="5" failures="0" skipped="0" time="23.965" errors="0">
-<testcase name="Test 1: Launching otivo retirement calculator successfully" classname="ui.superdetails.test.spec.ts" time="2.327">
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="24.254358">
+<testsuite name="ui.superdetails.test.spec.ts" timestamp="2024-09-26T14:05:51.542Z" hostname="chromium" tests="5" failures="0" skipped="0" time="23.681" errors="0">
+<testcase name="Test 1: Launching otivo retirement calculator successfully" classname="ui.superdetails.test.spec.ts" time="2.478">
 <system-out>
 <![CDATA[
 [[ATTACHMENT|../test-results/ui.superdetails.test-Test--fca41-ent-calculator-successfully-chromium/test-finished-1.png]]
 ]]>
 </system-out>
 <system-err>
-<![CDATA[(node:12433) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
+<![CDATA[(node:15378) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
 (Use `node --trace-warnings ...` to show where the warning was created)
 ]]>
 </system-err>
 </testcase>
-<testcase name="Test 2: Super details filled and submitted successfully" classname="ui.superdetails.test.spec.ts" time="5.177">
+<testcase name="Test 2: Super details filled and submitted successfully" classname="ui.superdetails.test.spec.ts" time="4.631">
 <system-out>
 <![CDATA[
 [[ATTACHMENT|../test-results/ui.superdetails.test-Test--809d4--and-submitted-successfully-chromium/test-finished-1.png]]
 ]]>
 </system-out>
 </testcase>
-<testcase name="Test 3:validate income and assert graphs " classname="ui.superdetails.test.spec.ts" time="4.804">
+<testcase name="Test 3:validate income and assert graphs " classname="ui.superdetails.test.spec.ts" time="4.798">
 <system-out>
 <![CDATA[
 [[ATTACHMENT|../test-results/ui.superdetails.test-Test--e76e9-e-income-and-assert-graphs--chromium/test-finished-1.png]]
 ]]>
 </system-out>
 </testcase>
-<testcase name="Test 4: Validate and display partner income and assert in dashboard " classname="ui.superdetails.test.spec.ts" time="6.31">
+<testcase name="Test 4: Validate and display partner income and assert in dashboard " classname="ui.superdetails.test.spec.ts" time="6.394">
 <system-out>
 <![CDATA[
 [[ATTACHMENT|../test-results/ui.superdetails.test-Test--8a3b4-me-and-assert-in-dashboard--chromium/test-finished-1.png]]
 ]]>
 </system-out>
 </testcase>
-<testcase name="Test 5:update age successfully" classname="ui.superdetails.test.spec.ts" time="5.347">
+<testcase name="Test 5:update age successfully" classname="ui.superdetails.test.spec.ts" time="5.38">
 <system-out>
 <![CDATA[
 [[ATTACHMENT|../test-results/ui.superdetails.test-Test-5-update-age-successfully-chromium/test-finished-1.png]]

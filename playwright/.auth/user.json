@@ -3,7 +3,7 @@
     {
       "name": "intercom-device-id-xfai2n0s",
       "value": "487b9c12-8dd0-401c-a54e-c3249e8fadf6",
-      "domain": ".spomarkets.com",
+      "domain": "Otivo",
       "path": "/",
       "expires": 1750585672,
       "httpOnly": false,
@@ -13,7 +13,7 @@
     {
       "name": "intercom-session-xfai2n0s",
       "value": "Y1J0TkF1cmlzdHVPMXdKSVhOSWJEcTZyVUMwdXc4QWdTenYxSDJheWFybXo4d1lUQ3R5UnRhY1VTQzFZamtkai0tT2R3emhONkppc1IwNFZvdlcxeUhtUT09--1aca3731a22da52815fb507f72b4b0030fa25ddf",
-      "domain": ".spomarkets.com",
+      "domain": "Otivo",
       "path": "/",
       "expires": 1727860472,
       "httpOnly": false,
@@ -23,7 +23,7 @@
   ],
   "origins": [
     {
-      "origin": "https://test.spomarkets.com",
+      "origin": "https://www.otivo.com/cfs/retirementCalculator",
       "localStorage": [
         {
           "name": "iconify1",
